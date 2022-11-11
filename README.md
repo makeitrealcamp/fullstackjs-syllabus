@@ -1,6 +1,6 @@
 # Full Stack JavaScript Developer - Syllabus
 
-Este programa está dirigido a personas que deseen aprender a desarrollar aplicaciones Web y/o móviles con el stack de JavaScript (React en el frontend y Express en el backend).
+Este programa está dirigido a personas que deseen aprender a desarrollar aplicaciones Web y/o móviles con el stack de JavaScript (HTML, CSS, Bootstrap, React, JavaScript, Node.js, Express y MongoDB).
 
 El programa tiene una duración de 24 semanas: 3 semanas de nivelación y 21 semanas de clases. 
 
@@ -49,28 +49,31 @@ Los temas de la fase principal son los siguientes (el orden puede variar según 
 - Cookies, Local Storage, History API.
 - Scrum.
 - Git Workflows.
+- reset.css vs normalize.css.
 - Responsive Design.
 - Flexbox.
+- CSS Frameworks (Bootstrap, Tailwind).
 - Node.js.
 - React (componentes, JSX, props y manejo de estado).
 - React Router y estilos en React.
 - Formularios y React Hooks.
-- JSON
+- JSON.
 - Llamados HTTP (AJAX).
 - CORS.
 - Prop drilling en React.
-- React Context
+- React Context.
 - Despliegue de frontend con Vercel y Netlify.
 - Introducción a Bases de Datos y MongoDB (diseño de DBs).
 - Creación de APIs con Express.
-- Autenticación
+- Autenticación.
 - Despliegue.
-- Carga de Imágenes
+- Carga de Imágenes.
 - Pasarela de pagos.
 - Cypress (end-to-end testing).
 - Integración continua (CI/CD).
 - OAuth.
 - Web Sockets.
+- Linters y Code Formatters.
 - TypeScript.
 - Docker.
 - React Native.
