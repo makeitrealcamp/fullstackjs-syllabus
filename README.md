@@ -54,6 +54,7 @@ Los temas de la fase principal son los siguientes (el orden puede variar según 
 - Flexbox.
 - CSS Frameworks (Bootstrap, Tailwind).
 - Node.js.
+- Jest.
 - React (componentes, JSX, props y manejo de estado).
 - React Router y estilos en React.
 - Formularios y React Hooks.
@@ -63,6 +64,7 @@ Los temas de la fase principal son los siguientes (el orden puede variar según 
 - Prop drilling en React.
 - React Context.
 - Despliegue de frontend con Vercel y Netlify.
+- React Testing Library.
 - Introducción a Bases de Datos y MongoDB (diseño de DBs).
 - Creación de APIs con Express.
 - Autenticación.
